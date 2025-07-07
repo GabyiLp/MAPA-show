@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Programação do Eventirock - Confira os horários dos shows e atrações.">
+  <title>Programação - Eventirock</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Eventirock</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="programacao.html">Programação</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Programação</h2>
+      <ul>
+        <li><strong>Sábado ás 19h (12/09)</strong>:
+          <ul>
+            <li>18h - Abertura</li>
+            <li>19h - Banda cover Metallica</li>
+          </ul>
+        </li>
+        <li><strong>Domingo (13/09)</strong>:
+          <ul>
+            <li>19h - Encerramento com Banca cover Iron Mainden</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Eventirock. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>

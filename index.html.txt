@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Site oficial do Eventirock - O maior festival de rock da cidade.">
+  <title>Eventirock - Festival de Rock</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Eventirock</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="programacao.html">Programação</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>O maior festival de rock da região!</h2>
+      <p>Shows, experiências e muita música ao vivo.</p>
+      <a href="programacao.html" class="btn">Ver Programação</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Eventirock. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
