@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Sobre o Eventirock - Saiba mais sobre o maior festival de rock da região.">
+  <title>Sobre - Eventirock</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Eventirock</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="programacao.html">Programação</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre o Evento</h2>
+      <p>O Eventirock nasceu da paixão por música ao vivo e a energia única do rock. Com bandas locais e nacionais, buscamos oferecer uma experiência inesquecível para os fãs do gênero. Esta edição contará com três dias de shows, praça de alimentação, feiras culturais e muito mais.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Eventirock. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
