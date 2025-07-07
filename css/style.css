@@ -37,6 +37,11 @@ nav a {
   background: url('../img/rock-stage.jpg') no-repeat center center/cover;
 }
 
+.hero .btn {
+  margin-top: 20px;
+  display: inline-block;
+}
+
 .btn {
   padding: 10px 20px;
   background-color: crimson;
